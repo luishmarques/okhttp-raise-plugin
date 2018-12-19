@@ -1,0 +1,21 @@
+{
+    "name": "com.ostest.okhttpraise",
+    "version": "0.0.1",
+    "description": "Okhttp Raise",
+    "cordova": {
+      "id": "com.ostest.okhttpraise",
+      "platforms": [
+        "android"
+      ]
+    },
+    
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/luishmarques/okhttp-raise-plugin"
+    },
+    "keywords": [
+      "cordova","outsystems","okhttp"
+    ],
+    "author": "OutSystems",
+    "license": "MIT",
+}
