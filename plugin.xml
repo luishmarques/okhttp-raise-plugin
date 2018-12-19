@@ -18,7 +18,7 @@
     <platform name="android">
         <config-file target="config.xml" parent="/*">
             <feature name="OkhttpRaise">
-                <param name="android-package" value="com.ostest.OkhttpRaise"/>
+                <param name="android-package" value="com.ossupport.OkhttpRaise"/>
             </feature>
         </config-file>
             
