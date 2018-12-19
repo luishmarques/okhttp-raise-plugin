@@ -21,6 +21,8 @@
                 <param name="android-package" value="com.ostest.OkhttpRaise"/>
             </feature>
         </config-file>
-
+            
+        <framework src="libs/android/build.gradle" custom="true" type="gradleReference" />
+            
     </platform>
 </plugin>
