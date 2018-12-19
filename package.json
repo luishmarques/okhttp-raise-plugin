@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "description": "Okhttp Raise",
     "cordova": {
-      "id": "com.ostest.okhttpraise",
+      "id": "com.ossupport.okhttpraise",
       "platforms": [
         "android"
       ]
